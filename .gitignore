@@ -3,3 +3,9 @@
 2023/10/24/hello-world/index.html
 *.html
 wp-content/uploads/simply-static/temp-files/simply-static-1-1698128654/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2
+*.woff2
+*.xml
+wp-content/uploads/simply-static/temp-files/simply-static-1-1698128654/wp-content/themes/twentytwentythree/assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf
+wp-content/uploads/simply-static/temp-files/simply-static-1-1698128654/wp-includes/blocks/navigation/style.min.css
+wp-content/uploads/simply-static/temp-files/simply-static-1-1698128654/wp-includes/blocks/navigation/view-modal.min.js
+wp-content/uploads/simply-static/temp-files/simply-static-1-1698128654/wp-includes/blocks/navigation/view.min.js
