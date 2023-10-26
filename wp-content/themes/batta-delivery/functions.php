@@ -14,3 +14,14 @@
      wp_enqueue_style('batta-delivery-style',get_stylesheet_uri(), array(), '1.0', 'all' );
  }
  add_action('wp_enqueue_scripts', 'batta_delivery_scripts' );
+
+ function batta_delivery_config(){
+register_nav_menus(
+    array(
+        'batta_delivery_main_menu' => 'Batta Delivery Main Menu',
+        'batta_delivery_footer_menu' => 'Batta Delivery Footer Menu',
+    )
+);
+ }
+ add_action('after_setup_theme', 'batta_delivery_config', 0);
+ 
